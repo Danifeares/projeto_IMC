@@ -1,5 +1,5 @@
 # projeto_IMC
-Projeto em JavaScript desenvolvido no curso Explorer da Rocketseat. 
+Projeto em HTML, CSS e JavaScript, desenvolvido no curso Explorer da Rocketseat. 
 
 # Objetivo:
 O projeto consiste em uma calculadora de IMC. O usuário coloca seus dados, 
